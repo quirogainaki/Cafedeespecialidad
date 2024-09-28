@@ -427,6 +427,13 @@ footer{
     color: rgb(245, 245, 161) !important;
 }
 /*que es html*/
+.parrafo2{
+    font-size: 19px;
+    text-shadow: 2px 2px 2px rgb(65, 65, 54);
+    background: #49320069;
+    padding: 20px;
+    border-radius: 20px;
+}
 
 
                 
