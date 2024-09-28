@@ -1,0 +1,1 @@
+se creo el index html con bootstrap incluyendo los prefijos correspondientes para cada tamaño y desde css se agrego una mediaquery para la segunda seccion para tamaño pequeño insertando la imagen como background-image.
